@@ -31,10 +31,6 @@ Durante el desarrollo de este proyecto fortalecí mis conocimientos en:
 * **Inteligencia Artificial para videojuegos:** Diseño de patrones de búsqueda, patrullaje y ataque autónomo para los enemigos.
 * **Diseño de niveles y optimización:** Estructuración de mapas balanceados que integran de forma fluida la dificultad, la narrativa visual y los obstáculos del entorno.
 
-## 📸 Capturas de pantalla
-
-*Agregar imágenes o GIFs de los niveles y el gameplay en acción.*
-
 ## 🚀 Cómo ejecutar el proyecto
 
 1. **Probar la versión web directamente (Demo en vivo):**
