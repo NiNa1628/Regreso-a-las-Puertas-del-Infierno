@@ -40,3 +40,10 @@ Durante el desarrollo de este proyecto fortalecí mis conocimientos en:
 2. **Clonar el repositorio para desarrollo local:**
 ```bash
    git clone [URL_DEL_REPOSITORIO]
+```
+
+## 👩‍💻 Autora
+
+Claudia Karina González Medina
+
+GitHub: https://github.com/NiNa1628
